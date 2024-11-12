@@ -1,0 +1,1 @@
+React, NextJS, Prisma, MongoDB
